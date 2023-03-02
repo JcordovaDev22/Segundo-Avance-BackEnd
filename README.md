@@ -7,7 +7,7 @@ EN LA CIUDAD DE MILAGRO
 Nuestro Segundo Avance del PROYECTO,
 
 **********************
-Pantallas con DahBoard
+Script Código PHP
 **********************
 
 Creando asi los respectivas carpeta config:
